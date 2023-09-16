@@ -3,10 +3,11 @@ Programació de dispositius mòbils
 
 *Grau en Disseny i Desenvolupament de Videojocs, UdG*
 
-[Fitxa de l'assignatura](https://www.udg.edu/ca/estudia/Oferta-formativa/Oferta-dassignatures/Detall-assignatura?codia=3105G13024)
+- [Fitxa de l'assignatura](https://www.udg.edu/ca/estudia/Oferta-formativa/Oferta-dassignatures/Detall-assignatura?codia=3105G13024)
+- [Presentació de l'assignatura](./intro.pdf)
 
 ## Bloc I: Programació nativa d'aplicacions per a dispositius mòbils
-- [Presentació de l'assignatura](./intro.pdf)
+
 - [Història i evolució dels videojocs per a dispositius mòbils](./historia.pdf)
 - [Principals plataformes mòbils i els seus ecosistemes](./plataformes.pdf)
 - [Models de negoci i distribució de jocs mòbils](./models-negoci.pdf)
