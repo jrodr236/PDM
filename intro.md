@@ -18,7 +18,9 @@ _class: lead
 # Part teòrica
 
 Reduïda
-Aspectes tècnics
+Aspectes tècnics i de mercat
+
+![bg right:50% 100%](https://cdn0.psicologia-online.com/es/posts/4/6/2/la_teoria_del_aprendizaje_de_piaget_2264_600.jpg)
 
 ---
 
@@ -27,11 +29,18 @@ Aspectes tècnics
 Tecnologies actuals, molt canviants
 Aplicació de conceptes coneguts a desenvolupaments reals
 
+![bg right:40% 100%](https://assets.bitdegree.org/online-learning-platforms/storage/media/2019/07/mobile-games.jpg)
+
+
+
 ---
 
-# Centrada en l'alumnat
+# Metodologia didàctica
 
 Alumnat actiu
-Autoaprenentatge de nous continguts i competències
-Projectes acordats amb vosaltres
-Treball en equip, recerca d'informació, resolució de problemes
+- Teoria: magistral + investigació
+- Pràctica: projectes acordats amb vosaltres
+
+Autoaprenentatge, Treball en equip, recerca d'informació, resolució de problemes
+
+![bg right:30% 100%](https://www.colegiostrinidadvillalba.es/wp-content/uploads/2021/05/Dibujo-alumno-en-el-centro.png)
