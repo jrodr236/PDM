@@ -19,6 +19,10 @@ _class: lead
 
 ---
 
+![bg](https://venturebeat.com/wp-content/uploads/2018/04/global_games_market_2012-2021_per_segment.png)
+
+---
+
 El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estratègies de distribució que afecten la manera com els desenvolupadors generen ingressos i com els jugadors accedeixen als jocs. Aquí tenim una desglossament dels models més comuns:
 
 ---
