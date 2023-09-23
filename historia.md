@@ -305,7 +305,7 @@ Optimització de jocs per a una experiència més immersiva.
 Jocs específics i mini jocs adaptats a pantalles petites.
 Interacció amb jocs mitjançant notificacions i controls.
 
-![bg right:40% 100%](https://www.apple.com/la/apple-watch-se/images/meta/gps-lte__e6rpgo83mu4i_og.png)
+![bg right:40% 100%](https://img.pccomponentes.com/articles/1058/10581444/1285-apple-watch-se-gps-2a-generacion-40mm-aluminio-silver-con-correa-sport-blanca-9da555cf-bd9e-462e-a75e-9c71380d0a18.jpg)
 
 ---
 

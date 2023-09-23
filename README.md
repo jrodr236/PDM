@@ -9,12 +9,14 @@ Programació de dispositius mòbils
 ## Bloc I: Programació nativa d'aplicacions per a dispositius mòbils
 
 - [Història i evolució dels videojocs per a dispositius mòbils](./historia.pdf)
+- [Tipus de desenvolupament d'aplicacions per a mòbils](./desenvolupament.pdf)
 - [Principals plataformes mòbils i els seus ecosistemes](./plataformes.pdf)
-- [Models de negoci i distribució de jocs mòbils](./models-negoci.pdf)
+
 
 ## Bloc II: Ús de motors de videojocs per al desenvolupament mòbil
 - [Característiques dels videojocs per a dispositius mòbils](./caracteristiques.pdf)
 - [Gèneres en els videojocs mòbils](./generes.pdf)
+- [Models de negoci i distribució de jocs mòbils](./models-negoci.pdf)
 
 ## Bloc III: Desenvolupament avançat de videojocs mòbils
 - [Tendències actuals i futures en el desenvolupament de jocs mòbils](./tendencies.pdf)
