@@ -106,5 +106,5 @@ Experiència en línia en temps real.
 
 ---
 
-A mesura que els gustos i les preferències dels jugadors canvien, els gèneres i les tendències en els jocs per a dispositius mòbils també evolucionen. Aquesta diversitat i adaptabilitat són factors clau que han mantingut viu i emocionant el món dels jocs mòbils.
+A mesura que els gustos i les preferències dels jugadors canvien, els gèneres i les tendències en els jocs per a dispositius mòbils també **evolucionen**. Aquesta diversitat i adaptabilitat són factors clau que han mantingut viu i emocionant el món dels jocs mòbils.
 

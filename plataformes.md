@@ -50,5 +50,5 @@ Les principals plataformes mòbils, com iOS d'Apple i Android de Google, tenen u
 
 ---
 
-En resum, les principals plataformes mòbils, com iOS i Android, ofereixen ecosistemes únics amb avantatges i desavantatges. La selecció d'una plataforma depèn de diversos factors, incloent-hi l'audiència objectiu, les preferències de desenvolupament i els objectius de monetització. Comprendre aquestes plataformes és essencial per a qualsevol desenvolupador que vulgui crear jocs mòbils d'èxit i oferir una experiència de joc optimitzada.
+En resum, les principals plataformes mòbils, com iOS i Android, ofereixen ecosistemes únics amb avantatges i desavantatges. La **selecció d'una plataforma** depèn de diversos factors, incloent-hi l'audiència objectiu, les preferències de desenvolupament i els objectius de monetització. Comprendre aquestes plataformes és essencial per a qualsevol desenvolupador que vulgui crear jocs mòbils d'èxit i oferir una experiència de joc optimitzada.
 

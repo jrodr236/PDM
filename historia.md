@@ -29,7 +29,7 @@ f. Impacte en la cultura i la societat
 
 ---
 
-Els orígens dels jocs per a dispositius mòbils es remunten als primers dies de la telefonia mòbil, quan aquests dispositius eren molt diferents dels smartphones actuals. Aquesta època va ser marcada per l'aparició dels primers telèfons mòbils, que es van popularitzar a finals dels anys 80 i principis dels 90. En aquest context, els jocs mòbils eren bastant senzills i limitats pel maquinari i les capacitats tècniques d'aquells dispositius.
+Els orígens dels jocs per a dispositius mòbils es remunten als primers dies de la telefonia mòbil, quan aquests dispositius eren molt diferents dels smartphones actuals. Aquesta època va ser marcada per l'aparició dels primers telèfons mòbils, que es van popularitzar a finals dels anys 80 i **principis dels 90**. En aquest context, els jocs mòbils eren bastant senzills i limitats pel maquinari i les capacitats tècniques d'aquells dispositius.
 
 ---
 
@@ -86,7 +86,7 @@ En resum, els orígens dels jocs mòbils es troben en els primers dies de la tel
 
 ---
 
-La irrupció dels smartphones va marcar un punt d'inflexió en la indústria dels videojocs per a dispositius mòbils. A mesura que aquests dispositius es van fer més populars i accessibles, es va produir una transformació significativa en la manera com es desenvolupaven i experimentaven els jocs en aquestes plataformes. Aquesta fase va abastar aproximadament la dècada dels 2000 i va donar lloc a canvis substancials en la forma com les persones es relacionaven amb els jocs mòbils.
+La irrupció dels smartphones va marcar un punt d'inflexió en la indústria dels videojocs per a dispositius mòbils. A mesura que aquests dispositius es van fer més populars i accessibles, es va produir una transformació significativa en la manera com es desenvolupaven i experimentaven els jocs en aquestes plataformes. Aquesta fase va abastar aproximadament la **dècada dels 2000** i va donar lloc a canvis substancials en la forma com les persones es relacionaven amb els jocs mòbils.
 
 ---
 

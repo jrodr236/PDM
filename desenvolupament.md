@@ -59,5 +59,5 @@ Limitacions en personalització i control.
 
 ---
 
-L'a 'elecció del tipus de desenvolupament dependrà de la complexitat del projecte, les necessitats de l'usuari final i els recursos disponibles. Algunes empreses poden optar per una combinació d'aquests mètodes per arribar a una àmplia audiència i oferir una experiència d'usuari òptima.
+L'**elecció del tipus de desenvolupament** dependrà de la complexitat del projecte, les necessitats de l'usuari final i els recursos disponibles. Algunes empreses poden optar per una combinació d'aquests mètodes per arribar a una àmplia audiència i oferir una experiència d'usuari òptima.
 
