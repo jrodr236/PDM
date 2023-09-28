@@ -118,8 +118,8 @@ _(*) Excepte la última sessió, evidentment._
 ## Sessions laboratori *(previsió)*
 
 - Sessió 1: Android [sense lliurament]
-- Sessió 2: APPs híbrides, tecnologies web
-- Sessió 3: Unity al mòbil
+- Sessió 2: Unity al mòbil
+- Sessió 3: APPs híbrides, tecnologies web
 - Sessió 4: APPs híbrides, altres
 - Sessió 5: AR
 - Sessió 6: Unreal al mòbil
