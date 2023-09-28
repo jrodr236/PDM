@@ -107,7 +107,7 @@ Presa de contacte amb diferents tecnologies mòbils.
 
 Primera sessió: sense lliurament.
 
-Següents sessions: demostració presencial. Límit la setmana següent. (*)
+Següents sessions: demostració presencial. Límit la sessió següent. (*)
 
 _(*) Excepte la última sessió, evidentment._
 
