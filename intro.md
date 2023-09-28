@@ -171,3 +171,11 @@ Prova tipus test, a on es validaran:
 Donat l'alt contingut pràctic de l'assignatura, es recomana portar ordinador portàtil a classe.
 
 ![bg right:50% 100%](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/xps/9-2022-update/laptop-xps-franchise-1920x1440-mod-4-expanded-3-left-png.png?fmt=png-alpha&wid=1920&hei=1440)
+
+---
+
+# Dubtes?
+
+![width:800](https://knowyourteam.com/blog/wp-content/uploads/2020/04/Untitled_Artwork-8-1024x429.png)
+
+juan.rodriguez@udg.edu
