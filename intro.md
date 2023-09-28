@@ -41,9 +41,9 @@ Bloc III: Desenvolupament avançat de videojocs mòbils
 
 # Part teòrica
 
-Reduïda
+Reduïda.
 
-Aspectes tècnics i de mercat
+Aspectes tècnics i de mercat.
 
 ![bg right:50% 100%](https://cdn0.psicologia-online.com/es/posts/4/6/2/la_teoria_del_aprendizaje_de_piaget_2264_600.jpg)
 
@@ -51,9 +51,9 @@ Aspectes tècnics i de mercat
 
 # Part pràctica
 
-Tecnologies actuals, molt canviants
+Tecnologies actuals, molt canviants.
 
-Aplicació de conceptes coneguts a desenvolupaments reals
+Aplicació de conceptes coneguts a desenvolupaments reals.
 
 ![bg right:40% 100%](https://assets.bitdegree.org/online-learning-platforms/storage/media/2019/07/mobile-games.jpg)
 
@@ -63,11 +63,11 @@ Aplicació de conceptes coneguts a desenvolupaments reals
 
 # Metodologia didàctica
 
-Alumnat actiu
+Alumnat actiu.
 - Teoria: magistral + investigació
 - Pràctica: projectes acordats amb vosaltres
 
-Autoaprenentatge, Treball en equip, recerca d'informació, resolució de problemes
+Autoaprenentatge, Treball en equip, recerca d'informació, resolució de problemes.
 
 ![bg right:30% 100%](https://www.colegiostrinidadvillalba.es/wp-content/uploads/2021/05/Dibujo-alumno-en-el-centro.png)
 
@@ -75,12 +75,12 @@ Autoaprenentatge, Treball en equip, recerca d'informació, resolució de problem
 
 # Qualificació
 
-$$Q_{final} = \frac{70 \times Q_{projectes} + 30 \times Q_{examen}}{100}$$
+$$Q_{final} = \frac{60 \times Q_{projectes} + 10 \times Q_{laboratori} + 30 \times Q_{examen}}{100}$$
 
 
 Per aprovar és necessari:
 - treure una nota final >= 5.
-- treure una nota d'examen >= 4.
+- treure una nota >= 4 dels tres termes (projectes, laboratori, examen).
 
 ![bg right:30% 100%](https://static.wixstatic.com/media/5e36dd_6e2803db3b2647229c1f88bf688bf7b8~mv2.png/v1/fill/w_673,h_372,al_c/5e36dd_6e2803db3b2647229c1f88bf688bf7b8~mv2.png)
 
@@ -101,17 +101,34 @@ La temàtica, abast i quantitat de projectes es decidira a partir de les propost
 
 ---
 
-# Examen final
+# Laboratori
 
-Prova tipus test, a on es validaran:
-- coneixements teòrics obtinguts a classe,
-- capacitats assolides amb el desenvolupament dels projectes.
+Presa de contacte amb diferents tecnologies mòbils.
 
-![bg right:40% 90%](https://yaq.es/sites/default/files/imagecache/slideshow_promo_big/sites/yaq.es/files/images/Test.jpg)
+Primera sessió: sense lliurament.
+
+Següents sessions: demostració presencial. Límit la setmana següent. (*)
+
+_(*) Excepte la última sessió, evidentment._
+
+![bg right:30% 100%](https://www.ub.edu/portal/documents/163523/289440/aula+informatica/a6bd63d4-c4df-446e-a311-156cc5df7c4a?t=1462354562605)
 
 ---
 
-# Calendari laboratori (1)
+## Sessions laboratori *(previsió)*
+
+- Sessió 1: Android [sense lliurament]
+- Sessió 2: APPs híbrides, tecnologies web
+- Sessió 3: Unity al mòbil
+- Sessió 4: APPs híbrides, altres
+- Sessió 5: AR
+- Sessió 6: Unreal al mòbil
+
+![bg right:30% 100%](https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg)
+
+---
+
+## Calendari laboratori (1)
 
 - 22/9: grup A
 - 29/9: grup B
@@ -125,7 +142,7 @@ Prova tipus test, a on es validaran:
 
 ---
 
-# Calendari laboratori (2)
+## Calendari laboratori (2)
 
 - 10/1: grup A
 - 17/11: grup B
@@ -136,6 +153,16 @@ Prova tipus test, a on es validaran:
 - 22/12: grup B
 
 ![bg right:30% 100%](https://www.iconarchive.com/download/i103365/paomedia/small-n-flat/calendar.1024.png)
+
+---
+
+# Examen final
+
+Prova tipus test, a on es validaran:
+- coneixements teòrics obtinguts a classe,
+- capacitats assolides amb el desenvolupament dels projectes i laboratori.
+
+![bg right:40% 90%](https://yaq.es/sites/default/files/imagecache/slideshow_promo_big/sites/yaq.es/files/images/Test.jpg)
 
 ---
 
