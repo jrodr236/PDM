@@ -7,6 +7,11 @@ _class: lead
 
 <!-- _class: invert -->
 
+![](./logo_udg.png)
+
+*Grau en Disseny i Desenvolupament de Videojocs*
+*Programació de dispositius mòbils*
+
 # Tendències actuals i futures en el desenvolupament de jocs mòbils
 
 ---

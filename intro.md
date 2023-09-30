@@ -8,10 +8,12 @@ _class: lead
 
 <!-- _class: invert -->
 
-# Presentació assignatura
+![](./logo_udg.png)
 
-*Programació de dispositius mòbils*
 *Grau en Disseny i Desenvolupament de Videojocs*
+*Programació de dispositius mòbils*
+
+# Presentació assignatura
 
 ---
 

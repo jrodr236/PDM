@@ -8,6 +8,11 @@ _class: lead
 
 <!-- _class: invert -->
 
+![](./logo_udg.png)
+
+*Grau en Disseny i Desenvolupament de Videojocs*
+*Programació de dispositius mòbils*
+
 # Història i evolució dels videojocs per a dispositius mòbils
 
 ---
