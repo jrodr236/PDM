@@ -86,18 +86,24 @@ Per aprovar és necessari:
 
 ---
 
-# Projectes
+# Projectes (1)
 
-Pes en la qualificació dels projectes:
+Pes en la qualificació dels projectes i data màxima de lliurament:
 
-- 30%: Projecte(s) Bloc I
-- 30%: Projecte(s) Bloc II
-- 30%: Projecte(s) Bloc III
-- 10%: Ús plataforma de distribució digital
+- 30%: Projecte(s) Bloc I, 27/10/2023
+- 30%: Projecte(s) Bloc II, 24/11/2023
+- 30%: Projecte(s) Bloc III, 29/12/2023
+- 10%: Ús plataforma de distribució digital, 29/12/2023
+
+![bg right:35% 100%](https://blog.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png)
+
+---
+
+# Projectes (2)
 
 La temàtica, abast i quantitat de projectes es decidira a partir de les propostes de l'alumnat.
 
-![bg right:35% 100%](https://blog.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png)
+![bg right:50% 100%](./pokedex-1.jpg_1902800913.webp)
 
 ---
 
