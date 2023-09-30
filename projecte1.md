@@ -93,3 +93,18 @@ Qualificació
 - Requeriments no funcionals: 10%
 - Seguiment: 30%
 
+
+Lliurament
+----------
+Caldrà penjar al Moodle de l'assignatura:
+
+1. Vídeo a on es mostrin totes les funcionalitats de l'aplicació.
+2. Fitxer APK, preparat per a instal·lar en un dispositiu Android.
+3. Tots els fitxers del projecte d'Android Studio, comprimits en format ZIP.
+
+Data màxima: 27/10/2023
+
+El professor podrà demanar explicacions per part de qualsevol membre de l'equip per a validar l'autoria i les competències adquirides durant el desenvolupament del projecte.
+
+Qualsevol lliurament que no compleixi allò indicat en aquest document podrà no ser avaluat.
+
