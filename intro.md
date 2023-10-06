@@ -174,11 +174,13 @@ Prova tipus test, a on es validaran:
 
 ---
 
-# Recomanació
+# Material
 
 Donat l'alt contingut pràctic de l'assignatura, es recomana portar ordinador portàtil a classe.
 
-![bg right:50% 100%](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/xps/9-2022-update/laptop-xps-franchise-1920x1440-mod-4-expanded-3-left-png.png?fmt=png-alpha&wid=1920&hei=1440)
+També caldrà portar sempre a classe un cable per a connectar el vostre dispositiu mòbil a l'ordinador, per a testejar els jocs i aplicacions que anem desenvolupant.
+
+![bg right:40% 100%](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/xps/9-2022-update/laptop-xps-franchise-1920x1440-mod-4-expanded-3-left-png.png?fmt=png-alpha&wid=1920&hei=1440)
 
 ---
 
