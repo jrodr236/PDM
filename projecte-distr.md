@@ -7,7 +7,7 @@
 &nbsp;
 
 
-Projecte Distribució digital
+Projecte Distribució digital. Pautes i criteris d'avaluació
 ============
 
 Utilitzar Google Play per a distribuir digitalment algun dels projectes realitzats durant el curs.
