@@ -79,13 +79,20 @@ Seguiment
 - Demostració, per tots els membres de l'equip, del coneixement dels detalls de la implementació.
 
 
-Lliuraments
+Documentació
 -----------
-Seguir les instruccions marcades a les tasques del Moodle.
+Caldrà penjar al Moodle un enllaç a un Google Docs amb permís de lectura al professor (u2005092@campus.udg.edu), amb la següent informació:
+- Temàtica de l'aplicació.
+- Membres de l'equip amb foto.
+- Estratègia per a compartir el codi.
+- Dissenys de les pantalles.
+- Justificació de l'arquitectura utilitzada.
+- Justificació que s'han seguit les pautes per a programar de forma neta utilitzant mostres del codi font de l'aplicació.
+- Altres tasques que l'equip de desenvolupament pensi que son rellevants.
+
 
 Qualificació
 ---------------------
-
 - UI: 10%
 - Arquitectura: 10%
 - Programació: 20%
@@ -98,11 +105,12 @@ Lliurament
 ----------
 Caldrà penjar al Moodle de l'assignatura:
 
-1. Vídeo a on es mostrin totes les funcionalitats de l'aplicació.
-2. Fitxer APK, preparat per a instal·lar en un dispositiu Android.
-3. Tots els fitxers del projecte d'Android Studio, comprimits en format ZIP.
+1. El document de Google Docs amb la **documentació**, en format **PDF**.
+2. **Vídeo** a on es mostri que l'aplicació compleix els **requeriments** funcionas i no funcionals.
+3. Fitxer **APK**, preparat per a instal·lar en un dispositiu Android, o bé enllaç a l'aplicació penjada a Google Play.
+4. Tots els fitxers del **projecte** d'Android Studio, comprimits en format **ZIP**.
 
-Data màxima: 27/10/2023
+Data màxima: **27/10/2023**
 
 El professor podrà demanar explicacions per part de qualsevol membre de l'equip per a validar l'autoria i les competències adquirides durant el desenvolupament del projecte.
 

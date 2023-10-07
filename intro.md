@@ -152,11 +152,11 @@ _(*) Excepte la última sessió, evidentment._
 
 ## Calendari laboratori (2)
 
-- 10/1: grup A
+- 10/11: grup A
 - 17/11: grup B
 - 24/11: grup A
 - 1/12: grup B
-- 8/21: NO LECTIU
+- 8/12: NO LECTIU
 - 15/12: grup A
 - 22/12: grup B
 
