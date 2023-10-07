@@ -17,7 +17,7 @@ Tasques prèvies
 ---------------
 Enviar un correu electrònic a juan.rodriguez@udg.edu indicant:
 - Nom dels membres de l'equip.
-- Compte de correu que s'utilitzarà per a distribuir l'aplicació (ha de ser del tipus _correu@gmail.com_).
+- Compte o comptes de correu que s'utilitzaran per a distribuir l'aplicació (han de ser del tipus correu@**gmail.com**).
 - Idioma predeterminat.
 - Nom de l'aplicació.
 - És un joc o una aplicació?
@@ -61,7 +61,7 @@ Lliurament
 ----------
 Caldrà penjar al Moodle de l'assignatura un **vídeo** a on es mostri:
 1. L'accés a l'aplicació utilitzant Google Play, la seva instal·lació i la verificació del seu ús.
-2. Altres aspectes rellevants en l'ús de Google Play Console.
+2. Utilització d'altres aspectes rellevants en l'ús de Google Play Console.
 
 Data màxima: **29/12/2023**
 
