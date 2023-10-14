@@ -40,13 +40,26 @@ Possibles problemes de privadesa.
 
 ---
 
-### Impacte físic i distracció:
+## Impacte físic i distracció:
 
 Problemes físics: tensió ocular, mala postura.
 Distracció de responsabilitats diàries.
 Limitació de la interacció social.
 
 ![bg right:40% 100%](https://static.abc.es/media/familia/2018/07/18/problemas-adolescentes-kEbG--540x285@abc.jpg)
+
+---
+
+## Patrons foscos de disseny
+
+⌛ Temporals
+💶 Monetaris
+👥 Socials
+🧠 Psicològics
+
+Veure [darkpattern.games](https://www.darkpattern.games/)
+
+![bg right:39% 90%](https://www.thegoan.net/uploads/news/big_100951_LEAD-DARK-PATTERNS-3-7-23-B.jpg)
 
 ---
 
