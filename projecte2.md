@@ -89,6 +89,8 @@ Caldrà penjar al Moodle un enllaç a un Google Docs amb permís de lectura al p
 - Temàtica concreta del joc
 - Membres de l'equip amb foto.
 - Estratègia per a compartir el codi.
+- Estratègia de repartiment de la feina i de trobades per a la posada en comú.
+- GDD
 - Justificació que s'han complert tots els requeriments funcionals.
 - Justificació que s'han complert tots els requeriments no funcionals.
 - Altres tasques que l'equip de desenvolupament pensi que son rellevants.
