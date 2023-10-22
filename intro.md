@@ -127,9 +127,9 @@ _(*) Excepte la última sessió, evidentment._
 
 - Sessió 1: Android [sense lliurament]
 - Sessió 2: Unity al mòbil
-- Sessió 3: APPs híbrides, tecnologies web
-- Sessió 4: APPs híbrides, altres
-- Sessió 5: AR
+- Sessió 3: Ionic (APPs híbrides, tecnologies web)
+- Sessió 4: AR
+- Sessió 5: .NET MAUI (APPs híbrides, altres)
 - Sessió 6: Unreal al mòbil
 
 ![bg right:30% 100%](https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg)
