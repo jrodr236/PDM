@@ -22,6 +22,10 @@ Programació de dispositius mòbils
 - [Tendències actuals i futures en el desenvolupament de jocs mòbils](./tendencies.pdf)
 - [Riscos dels videojocs mòbils](./riscos.pdf)
 
+## Laboratori
+- [Ionic](./ionic.pdf)
+- [.NET MAUI](./maui.pdf)
+
 ---
 
 Autor: Joan Rodríguez Bellido
