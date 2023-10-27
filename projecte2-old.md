@@ -14,24 +14,24 @@ Es permetrà canviar alguns d'aquests requeriments per uns altres d'equivalents,
 
 Temàtica general
 --------
-Endless Runner.
+Gestió d'una empresa.
 
 
 Temàtica concreta
 -----------------
 Caldrà indicar-la al professor. Exemples:
-- Endless flyer.
-- Endless driving.
+- Gestió d'un casino
+- Gestió d'una pizzeria
 
 
 Funcionalitat base
 ------------------
-El joc ha de ser infinit. Han d'aparèixer obstacles i pick-ups generats aleatòriament.
+L'empresa del joc oferirà als clients productes o serveis. Inicialment seran molt bàsics, però amb els diners rebuts pels clients es podran adquirir més infrastructures o contractar treballadors per a oferir millors productes o serveis. El jugador haurà de decidir com millorar la seva empresa. L'objectiu del joc és obtenir el màxim benefici.
 
 
 Tecnologies
 -----------
-Motor de Unity sobre Android.
+Motor de videojocs (a determinar) sobre Android.
 
 
 Equips
@@ -42,14 +42,14 @@ Equips
 GDD
 ---
 
-S'ha de fer un esbós de document de disseny del videojoc (2-3 pàgines). Ha de ser clar i comprensible. Es pot utilitzar com a referència d'estructura el següent: https://en.wikipedia.org/wiki/Game_design_document
+El document de disseny del videojoc ha de ser clar i exhaustiu. Es pot utilitzar com a referència d'estructura el següent: https://en.wikipedia.org/wiki/Game_design_document
 
 
 Requeriments funcionals
 --------------------
 * Funcionalitat:
    - La funcionalitat bàsica ha de ser completa i sense errors.
-   - Totes les característiques importants del joc (generació aleatòria d'obstacles i pick-ups) han de ser implementades.
+   - Totes les característiques importants del joc (oferta de productes, gestió d'infrastructures, presa de decisions per part del jugador, etc.) han de ser implementades.
 * UI:
    - La UI ha de ser intuïtiva i fàcil d'usar.
    - Les dades rellevants s'han de mostrar clarament.
@@ -60,7 +60,9 @@ Requeriments funcionals
    - L'experiència de joc ha de ser divertida i engrescadora
    - Les mecàniques del joc han de ser equilibrades i no massa fàcils ni massa difícils
 * Sistema de puntuació:
-   - S'han de proporcionar una forma de seguiment de la puntuació del jugador.
+   - S'han de proporcionar recompenses i una forma de seguiment de la puntuació del jugador.
+* Tutorials
+   - Els jugadors han de rebre les instruccions de com jugar de forma integrada en el propi joc.
 * Proves amb usuaris
    - Durant el procés de desenvolupament s'han de fer entrevistes a usuaris per a validar que el joc dissenyat és divertit i atractiu.
    
@@ -88,7 +90,7 @@ Caldrà penjar al Moodle un enllaç a un Google Docs amb permís de lectura al p
 - Membres de l'equip amb foto.
 - Estratègia per a compartir el codi.
 - Estratègia de repartiment de la feina i de trobades per a la posada en comú.
-- Esbós de GDD
+- GDD
 - Justificació que s'han complert tots els requeriments funcionals.
 - Justificació que s'han complert tots els requeriments no funcionals.
 - Altres tasques que l'equip de desenvolupament pensi que son rellevants.
