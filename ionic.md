@@ -273,3 +273,5 @@ https://untappd.com/
 Desenvolupar una primera aplicació a Ionic i executar-la al mòbil (dispositiu real o emulador).
 
 Per exemple: [Your Fist Ionic App: Angular](https://ionicframework.com/docs/angular/your-first-app)
+
+![bg right:40% 100%](https://ionicframework.com/docs/assets/images/android-permissions-photo-8d864969f3b5c99f5e420c2d03d34c25.png)

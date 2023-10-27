@@ -21,6 +21,7 @@ _class: lead
 a. Innovació en la jugabilitat i la interacció.
 b. Tendències en el desenvolupament de jocs mòbils
 c. Futur dels jocs mòbils
+d. Desenvolupament
 
 ---
 <!-- _class: invert -->
@@ -324,10 +325,40 @@ Benestar dels jugadors com a prioritat.
 
 ![bg right:40% 100%](https://www.lavanguardia.com/andro4all/hero/2022/05/Google-Digital-Wellbeing.jpg?width=1200)
 
-
 ---
-
-
 
 En resum, el futur dels jocs per a dispositius mòbils serà una barreja emocionant de tecnologia avançada, innovació creativa i canvis en la manera com juguem i interactuem amb els jocs. Aquesta evolució continuada garantirà que els jocs mòbils segueixin sent una part vibrant i influent de la cultura dels videojocs.
 
+
+
+---
+
+<!-- _class: invert -->
+
+## d. Desenvolupament
+
+(Enllaçem amb el tema _Tipus de desenvolupament d'aplicacions per a mòbils_)
+
+---
+
+### Desenvolupament natiu
+
+Els dispositius mòbils avancen ràpidament: hardware (processadors, càmeres, sensors) i sistemes operatius (iOS, Android).
+
+El desenvolupament natiu permet aprofitar aquestes noves funcions **immediatament**.
+
+APIs i funcionalitats més recents accessibles primerament al desenvolupament natiu.
+
+---
+
+### Altres tipus de desenvolupament
+
+Desenvolupament Híbrid, PWA i motors de videojocs
+
+Retard en l'adopció de les últimes característiques del hardware i els sistemes operatius.
+
+Perquè? Limitacions tècniques i temps que triguen aquestes solucions a adaptar-se a les novetats.
+
+---
+
+Per accedir plenament a les últimes novetats en el hardware i els sistemes operatius dels telèfons mòbils, el desenvolupament natiu és la millor opció.
