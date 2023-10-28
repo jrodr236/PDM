@@ -12,11 +12,11 @@ _class: lead
 *Grau en Disseny i Desenvolupament de Videojocs*
 *Programació de dispositius mòbils*
 
-# Models de negoci i distribució de jocs mòbils
+# Models de negoci de jocs mòbils
 
 ---
 
-![bg 80%](https://starloopstudios.com/wp-content/uploads/2021/04/gaming-platforms-01-1024x723.jpg)
+![bg 87%](https://www.insiderintelligence.com/topics/storage/312127d110d9d135464c3584af526071/277747)
 
 ---
 
@@ -34,9 +34,10 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 
 ## _Freemium_
 
-**Concepte**: El joc es descarrega i es juga de forma gratuïta, però ofereix compres dins de l'aplicació per a contingut premium, avantatges o moneda virtual.
-**Avantatges**: Accessibilitat per a un ampli públic. Els jugadors poden triar gastar en funció del seu interès.
+**Concepte**: El joc es descarrega i es juga de forma gratuïta, però ofereix compres dins de l'aplicació (IAP) per adquirir objectes virtuals, moneda del joc o avantatges.
+**Avantatges**: Pot generar ingressos sostinguts i motivar la interacció continuada dels jugadors.
 
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/4730/4730471.png)
 
 ---
 
@@ -45,6 +46,8 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 **Concepte**: El joc es ven amb un preu únic inicial sense compres dins de l'aplicació ni publicitat.
 **Avantatges**: Ingressos inicials. Pot oferir una millor experiència sense interrupcions publicitàries o compres.
 
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/12321/12321364.png)
+
 ---
 
 ## Anuncis publicitaris
@@ -52,13 +55,7 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 **Concepte**: El joc és gratuït però inclou publicitat integrada, com anuncis de pantalla completa, vídeos o banners.
 **Avantatges**: Accessibilitat sense cost per als jugadors. Ingressos provinents dels anunciants.
 
-
----
-
-## Compres dins de l'aplicació (IAP)
-
-**Concepte**: El joc és gratuït, però els jugadors poden adquirir objectes virtuals, moneda del joc o avantatges mitjançant compres dins de l'aplicació.
-**Avantatges**: Pot generar ingressos sostinguts i motivar la interacció continuada dels jugadors.
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/944/944933.png)
 
 ---
 
@@ -67,6 +64,8 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 **Concepte**: Els jugadors paguen una subscripció periòdica (setmanal, mensual, anual) per accedir a contingut exclusiu, avantatges o actualitzacions regulars.
 **Avantatges**: Ingressos constants i fidelització dels jugadors.
 
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/3966/3966554.png)
+
 ---
 
 ## _Pay-to-Win_
@@ -74,6 +73,7 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 **Concepte**: El joc ofereix avantatges significatius a aquells jugadors que gasten diners en compres dins de l'aplicació.
 **Avantatges**: Pot generar ingressos substancials però pot generar desigualtats entre jugadors.
 
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/1729/1729507.png)
 
 ---
 
@@ -82,6 +82,8 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 **Concepte**: El joc es pot descarregar i jugar gratuïtament durant un període de temps limitat, o només una part (demo). Després es requereix una compra per continuar.
 **Avantatges**: Permet als jugadors provar el joc abans de comprometre's amb una compra.
 
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/5651/5651475.png)
+
 ---
 
 ## _Crowdfunding_ (finançament col·lectiu)
@@ -89,6 +91,7 @@ El món dels jocs mòbils ofereix una àmplia gamma de models de negoci i estrat
 **Concepte**: Els desenvolupadors ofereixen la possibilitat als jugadors de finançar el joc abans que sigui llançat, amb recompenses exclusives.
 **Avantatges**: Genera un finançament inicial, i els que contribueixen solen ajudar a promocionar el joc i donen retroalimentació durant el desenvolupament.
 
+![bg right:40% 100%](https://cdn-icons-png.flaticon.com/512/2111/2111178.png)
 
 ----
 

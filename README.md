@@ -16,7 +16,7 @@ Programació de dispositius mòbils
 ## Bloc II: Ús de motors de videojocs per al desenvolupament mòbil
 - [Característiques dels videojocs per a dispositius mòbils](./caracteristiques.pdf)
 - [Gèneres en els videojocs mòbils](./generes.pdf)
-- [Models de negoci i distribució de jocs mòbils](./models-negoci.pdf)
+- [Models de negoci de jocs mòbils](./models-negoci.pdf)
 
 ## Bloc III: Desenvolupament avançat de videojocs mòbils
 - [Tendències actuals i futures en el desenvolupament de jocs mòbils](./tendencies.pdf)
