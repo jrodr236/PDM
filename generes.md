@@ -111,5 +111,15 @@ Experiència en línia en temps real.
 
 ---
 
+## Evolució dels gèneres
+
+
+| Històrics  | Actuals |
+|:----------:|:-------:|
+| ![width:350px](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png) | ![width:350](https://play-lh.googleusercontent.com/700bol1XvVc9XmJzwJsnCH012sObBo1eAEdLghOCKJ9Je_rVN6oVGXydcbx1X2XgG2fT) |
+| [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-played_mobile_games_by_player_count) | [TAPTAP](https://www.taptap.io/top/played) |
+
+---
+
 A mesura que els gustos i les preferències dels jugadors canvien, els gèneres i les tendències en els jocs per a dispositius mòbils també **evolucionen**. Aquesta diversitat i adaptabilitat són factors clau que han mantingut viu i emocionant el món dels jocs mòbils.
 
