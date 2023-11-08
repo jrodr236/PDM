@@ -1,8 +1,16 @@
 ---
 marp: true
 theme: gaia
-# uncover, gaia
-_class: lead
+# default, uncover, gaia
+style: |
+  section {
+    background-color: white;
+    color: #001489;
+  }
+  section.invert {
+    background-color: #001489;
+    color: white;
+  }
 ---
 
 <!-- _class: invert -->

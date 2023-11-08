@@ -1,8 +1,16 @@
 ---
 marp: true
 theme: gaia
-# uncover, gaia
-_class: lead
+# default, uncover, gaia
+style: |
+  section {
+    background-color: white;
+    color: #001489;
+  }
+  section.invert {
+    background-color: #001489;
+    color: white;
+  }
 ---
 
 <!-- _class: invert -->
@@ -343,21 +351,21 @@ En resum, el futur dels jocs per a dispositius mòbils serà una barreja emocion
 
 ### Desenvolupament natiu
 
-Els dispositius mòbils avancen ràpidament: hardware (processadors, càmeres, sensors) i sistemes operatius (iOS, Android).
+- Els dispositius mòbils avancen ràpidament: hardware (processadors, càmeres, sensors) i sistemes operatius (iOS, Android).
+- El desenvolupament natiu permet aprofitar aquestes noves funcions **immediatament**.
+- APIs i funcionalitats més recents accessibles primerament al desenvolupament natiu.
 
-El desenvolupament natiu permet aprofitar aquestes noves funcions **immediatament**.
-
-APIs i funcionalitats més recents accessibles primerament al desenvolupament natiu.
+![bg right:40% 100%](https://www.miquido.com/wp-content/uploads/2022/07/Native-tools-700x846.png)
 
 ---
 
 ### Altres tipus de desenvolupament
 
-Desenvolupament Híbrid, PWA i motors de videojocs
+- Desenvolupament Híbrid, PWA i motors de videojocs
+- Retard en l'adopció de les últimes característiques del hardware i els sistemes operatius.
+- Perquè? Limitacions tècniques i temps que triguen aquestes solucions a adaptar-se a les novetats.
 
-Retard en l'adopció de les últimes característiques del hardware i els sistemes operatius.
-
-Perquè? Limitacions tècniques i temps que triguen aquestes solucions a adaptar-se a les novetats.
+![bg right:40% 100%](https://www.miquido.com/wp-content/uploads/2022/07/Cross-platform-tools-768x700.png.webp)
 
 ---
 
