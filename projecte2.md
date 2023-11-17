@@ -111,7 +111,7 @@ Caldrà penjar al Moodle de l'assignatura:
 3. Fitxer **APK**, preparat per a instal·lar en un dispositiu Android, o bé enllaç a l'aplicació penjada a Google Play.
 4. Tots els fitxers del **projecte** d'Android Studio, comprimits en format **ZIP**.
 
-Data màxima: **24/11/2023**
+Data màxima: ~~24/11/2023~~ **27/11/2023**
 
 El professor podrà demanar explicacions per part de qualsevol membre de l'equip per a validar l'autoria i les competències adquirides durant el desenvolupament del projecte.
 
