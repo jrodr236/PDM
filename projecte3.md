@@ -107,6 +107,7 @@ Caldrà penjar al Moodle un enllaç a un Google Docs amb permís de lectura al p
 - Estratègia per a compartir el codi.
 - Estratègia de repartiment de la feina i de trobades per a la posada en comú.
 - Disseny de concepte
+- Justificació que s'han complert tots els requeriments tècnics imprescindibles.
 - Justificació que s'han complert tots els requeriments d'esperiència d'usuari.
 - Justificació que s'han complert tots els requeriments de qualitat.
 - Altres tasques que l'equip de desenvolupament pensi que son rellevants.
