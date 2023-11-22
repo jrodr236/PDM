@@ -57,7 +57,6 @@ Requeriments tècnics imprescindibles
 - El joc funcioni sense problemes a dispositius mòbils.
 - La realitat augmentada s'implementi correctament.
 
-
 Requeriments: Experiència d'usuari
 --------------------
 * Funcionalitat:
@@ -89,7 +88,9 @@ Requeriments: Qualitat
 * Codi net
    - El codi ha de ser net, utilitzant els mateixos criteris que el Projecte 1.
 * Proves de l'aplicació
-    - Cal utilitzar una bona estratègia de proves per a reduir els errors de programació.
+   - Cal utilitzar una bona estratègia de proves per a reduir els errors de programació.
+* El joc està ben optimitzat (obligatori grups de 3, opcional grups de 2)
+   - Es recomana seguir les pautes de l'ebook [Optimize Your Mobile Game Performance](https://resources.unity.com/games/unity-e-book-optimize-your-mobile-game-performance).
 
 
 Seguiment
