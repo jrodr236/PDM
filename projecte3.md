@@ -116,7 +116,7 @@ Caldrà penjar al Moodle un enllaç a un Google Docs amb permís de lectura al p
 
 Qualificació
 ---------------------
-- GDD: 10%
+- Disseny de concepte: 10%
 - Requeriments d'experiència d'usuari (tots tenen el mateix valor): 30%
 - Requeriments de qualitat (tots tenen el mateix valor): 30%
 - Seguiment: 30%
