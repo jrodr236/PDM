@@ -127,7 +127,7 @@ Lliurament
 Caldrà penjar al Moodle de l'assignatura:
 
 1. El document de Google Docs amb la **documentació**, en format **PDF**.
-2. **Vídeo** a on es mostri que l'aplicació compleix els **requeriments** funcionals i no funcionals.
+2. **Vídeo** a on es mostri que l'aplicació compleix tots els **requeriments**: tècnics imprescindibles, d'experiència d'usuari i de qualitat.
 3. Fitxer **APK**, preparat per a instal·lar en un dispositiu Android, o bé enllaç a l'aplicació penjada a Google Play.
 4. Tots els fitxers del **projecte** d'Android Studio, comprimits en format **ZIP**.
 
