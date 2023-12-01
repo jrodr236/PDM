@@ -65,7 +65,9 @@ Limitació de la interacció social.
 👥 Socials
 🧠 Psicològics
 
-Veure [darkpattern.games](https://www.darkpattern.games/)
+Analitzem [darkpattern.games](https://www.darkpattern.games/):
+- Definició.
+- Tots els tipus i exemples.
 
 ![bg right:39% 90%](https://www.thegoan.net/uploads/news/big_100951_LEAD-DARK-PATTERNS-3-7-23-B.jpg)
 
