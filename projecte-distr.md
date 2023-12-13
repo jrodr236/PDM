@@ -38,6 +38,7 @@ Distribució de l'aplicació
 --------------------------
 Cal verificar que l'aplicació es pot trobar a Google Play de forma pública, es permet la seva instal·lació sense cap incidència i es pot utilitzar sense errors.
 
+
 Ús de Google Play Console
 -------------------------
 Alguns aspectes rellevants que cal experimentar en l'ús de Google Play Console:
@@ -60,8 +61,10 @@ Qualificació
 Lliurament
 ----------
 Caldrà penjar al Moodle de l'assignatura un **vídeo** a on es mostri:
-1. L'accés a l'aplicació utilitzant Google Play, la seva instal·lació i la verificació del seu ús.
-2. Utilització d'altres aspectes rellevants en l'ús de Google Play Console.
+1. L'accés a l'aplicació utilitzant Google Play, la seva instal·lació i la verificació del seu ús (veure apartat _Distribució de l'aplicació_).
+2. Utilització d'altres aspectes rellevants en l'ús de Google Play Console (veure apartat _Ús de Google Play Console_).
+
+Afegiu subtítols o comentaris de veu al vídeo amb explicacions d'allò que es mostra.
 
 Data màxima: **29/12/2023**
 
